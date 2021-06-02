@@ -12,7 +12,7 @@
 #include "Identifier.hpp"
 #include <map>
 
-int main(){
+int main2(){
     std::ifstream Inp;
     std::ofstream Oup;
     Inp.open("MONITOR.INP");

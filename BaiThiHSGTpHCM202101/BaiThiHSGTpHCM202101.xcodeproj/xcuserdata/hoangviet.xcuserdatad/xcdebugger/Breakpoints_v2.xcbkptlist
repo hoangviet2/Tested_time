@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F5E1AAB6-5D3C-4BED-9E33-AD2170779450"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F7E0E98-569F-4C03-AAAF-49B49DEA2119"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BaiThiHSGTpHCM202101/Count.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "main02()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "3F7E0E98-569F-4C03-AAAF-49B49DEA2119 - c35d18259022f4cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "BaiThiHSGTpHCM202101"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hoangviet/Tested_time/BaiThiHSGTpHCM202101/BaiThiHSGTpHCM202101/Count.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "482">
+               </Location>
+               <Location
+                  uuid = "3F7E0E98-569F-4C03-AAAF-49B49DEA2119 - c35d18259022f4cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "BaiThiHSGTpHCM202101"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hoangviet/Tested_time/BaiThiHSGTpHCM202101/BaiThiHSGTpHCM202101/Count.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "573">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A752176-17F0-4FE1-B3C9-DE9F4CDF6A09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BaiThiHSGTpHCM202101/Count.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "main02()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

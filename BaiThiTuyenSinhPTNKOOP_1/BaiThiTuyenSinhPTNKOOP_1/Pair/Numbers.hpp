@@ -16,7 +16,7 @@ private:
     int LeastCommonMultiple;
 public:
     Numbers();
-    Numbers(int frist,int second):frist{frist},second{second},LeastCommonMultiple{frist*second/findLCM(frist, second)}{};
+    Numbers(int frist,int second):frist{frist},second{second},LeastCommonMultiple{frist*second/findLCM(frist, second)} {};
     int findLCM(int numberA, int numberB);
     int getLargeGeneral(){return LeastCommonMultiple;};
     ~Numbers(){};
